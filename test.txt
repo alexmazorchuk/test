@@ -1,3 +1,4 @@
-#!/nin/bash
+#!/bin/bash
+
 echo "Hello Al"
 /bin/bash -i
